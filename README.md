@@ -13,6 +13,10 @@ Template Blogger portal berita responsif. Edisi Free untuk mencoba tampilan dan 
 - [Beli SaeDaily Premium](https://www.temablogger.com/2026/11/saedaily-template-blogger-portal-berita-modern.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
 
+## Dukung developer
+
+Jika tema ini bermanfaat, beri ⭐ Star pada [repositori ini](https://github.com/tema-blogger/saedaily-template-blogger-portal-berita-modern-free) dan bagikan tautannya kepada pengguna Blogger lain. Dukungan Anda membantu pengembangan tema gratis. Terima kasih sudah menghargai karya developer; semoga bermanfaat dan membawa berkah.
+
 ## Fitur tampilan
 
 - Headline tiga kolom
